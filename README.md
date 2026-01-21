@@ -11,3 +11,10 @@ Note that there is no portable version of PDF-Tools, so using this crack with th
 
 ## How To Use
 Download the BPS patch file and apply it to `PDFXEditCore.x64.dll`. If you don't know how to do this, just go to [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) and select the original DLL file and the BPS file. After downloading the patched DLL file, just move it to the directory where PDF-XChange Editor is installed. You can either replace the original DLL file or rename it to `PDFXEditCore.x64.dll.old` (just make sure file name extensions are enabled).
+
+These are the hashes of the original DLL file:
+* **CRC32:** `254F633A`
+* **MD5:** `474d81b1a0031720fc33898597c39ee6`
+* **SHA1:** `b370258108ade4b9856a932a53d0078dde6e6d55`
+* **SHA-256:** `f1a374f3bd2a4fffd26388640ab4a92726b032fd467cd5aeb57f4bb20386a20a`
+* **SHA3-256:** `e84e220f05e5316b5454b713e068d15993400d1c5c1f7607d9b1944f744c8e35`
