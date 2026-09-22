@@ -2,6 +2,9 @@
 > [!IMPORTANT]
 > Turns out it's illegal in the US. Use at your own risk.
 
+> [!IMPORTANT]
+> This does not work with version 11.
+
 # PDF-XChange Crack (BPS)
 This is a crack for [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) and [PDF-Tools](https://www.pdf-xchange.com/product/pdf-tools) that unlocks all the paid features in the free version. This is legal even for commercial use (as long as you don't distribute the modified DLL file).
 
